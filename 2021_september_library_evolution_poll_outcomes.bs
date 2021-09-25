@@ -1,0 +1,122 @@
+<pre class='metadata'>
+Title: 2021 September Library Evolution Poll Outcomes
+Shortname: D2451
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2451
+!Source: <a href="https://github.com/brycelelbach/wg21_p2451_2021_september_library_evolution_poll_outcomes/blob/main/2021_september_library_evolution_poll_outcomes.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2451_2021_september_library_evolution_poll_outcomes/issues
+Metadata Order: Editor, This Version, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+</pre>
+
+<style>
+table, th, tr, td {
+  border: 2px solid black !important;
+}
+@media (prefers-color-scheme: dark) {
+  table, th, tr, td {
+    border: 2px solid white !important;
+  }
+}
+</style>
+
+# Introduction # {#introduction}
+
+In September 2021, the C++ Library Evolution group conducted a series of
+  electronic decision polls [[P2436R0]].
+This paper provides the results of those polls and summarizes the results.
+
+In total, 23 people participated in the polls.
+Some participants opted to not vote on some polls.
+Thank you to everyone who participated, and to the proposal authors for all
+  their hard work!
+
+# Poll Outcomes # {#poll-outcomes}
+
+* SF: Strongly Favor.
+* WF: Weakly Favor.
+* N: Neutral.
+* WA: Weakly Against.
+* SA: Strongly Against.
+
+<table>
+<tr>
+<th style="padding-bottom: 10px;">Poll
+<th>SF
+<th>WF
+<th>N
+<th>WA
+<th>SA
+<th>Outcome
+
+<tr>
+<td style="padding-bottom: 16px;">
+<td>Poll 1: Send [[P2418R0]] (Add Support For `std::generator`-like Types To `std::format`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+<td>12
+<td>7
+<td>0
+<td>1
+<td>0
+<td>Unanimous consenus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+<td>Poll 2: Send [[P2415R1]] (What Is `A view`?) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+<td>7
+<td>6
+<td>1
+<td>1
+<td>3
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+<td>Poll 3: Send [[P2432R0]] (Fix `istream_view`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+<td>6
+<td>8
+<td>4
+<td>3
+<td>1
+<td>Weak consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+<td>Poll 4: Send [[P2351R0]] (Mark All Library Static Cast Wrappers As `[[nodiscard]]`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+<td>7
+<td>9
+<td>4
+<td>2
+<td>2
+<td>Weak consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+<td>Poll 5: Send [[P2291R2]] (Add `constexpr` Modifiers To Functions `to_chars` And `from_chars` For Integral Types In <charconv> Header) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+<td>13
+<td>7
+<td>1
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+</table>
+
+# Selected Poll Comments # {#selected-poll-comments}
+
+## Poll 1: [[P2418R0]] Add Support For `std::generator`-like Types To `std::format` ## {#poll-1}
+
+## Poll 2: [[P2415R1]] What Is `A view`? ## {#poll-2}
+
+## Poll 3: [[P2432R0]] Fix `istream_view` ## {#poll-3}
+
+## Poll 4: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-4}
+
+## Poll 5: [[P2291R2]] Add `constexpr` Modifiers To Functions `to_chars` And `from_chars` For Integral Types In <charconv> Header ## {#poll-5}
+
