@@ -67,7 +67,7 @@ Poll 1: Send [[P2418R0]] (Add Support For `std::generator`-like Types To
 <td>0
 <td>1
 <td>0
-<td>Unanimous consenus in favor.
+<td>Consenus in favor.
 
 <tr>
 <td style="padding-bottom: 16px;">
