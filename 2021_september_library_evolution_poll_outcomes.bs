@@ -58,7 +58,10 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td style="padding-bottom: 16px;">
-<td>Poll 1: Send [[P2418R0]] (Add Support For `std::generator`-like Types To `std::format`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+Poll 1: Send [[P2418R0]] (Add Support For `std::generator`-like Types To
+  `std::format`) to Library Working Group for C++23, classified as an improvement
+  of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation
+  that implementations retroactively apply it to C++20.
 <td>12
 <td>7
 <td>0
@@ -68,7 +71,10 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td style="padding-bottom: 16px;">
-<td>Poll 2: Send [[P2415R1]] (What Is `A view`?) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+Poll 2: Send [[P2415R1]] (What Is `A view`?) to Library Working Group for
+  C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket
+  2 item), with the recommendation that implementations retroactively apply it
+  to C++20.
 <td>7
 <td>6
 <td>1
@@ -78,17 +84,22 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td style="padding-bottom: 16px;">
-<td>Poll 3: Send [[P2432R0]] (Fix `istream_view`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item), with the recommendation that implementations retroactively apply it to C++20.
+Poll 3: Send [[P2432R0]] (Fix `istream_view`) to Library Working Group for
+  C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket
+  2 item), with the recommendation that implementations retroactively apply it to
+  C++20.
 <td>6
 <td>8
 <td>4
 <td>3
 <td>1
-<td>Weak consensus in favor.
+<td>Very weak consensus in favor.
 
 <tr>
 <td style="padding-bottom: 16px;">
-<td>Poll 4: Send [[P2351R0]] (Mark All Library Static Cast Wrappers As `[[nodiscard]]`) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 4: Send [[P2351R0]] (Mark All Library Static Cast Wrappers As
+  `[[nodiscard]]`) to Library Working Group for C++23, classified as an
+  improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>7
 <td>9
 <td>4
@@ -98,7 +109,10 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td style="padding-bottom: 16px;">
-<td>Poll 5: Send [[P2291R2]] (Add `constexpr` Modifiers To Functions `to_chars` And `from_chars` For Integral Types In <charconv> Header) to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 5: Send [[P2291R2]] (Add `constexpr` Modifiers To Functions `to_chars` And
+  `from_chars` For Integral Types In <charconv> Header) to Library Working Group
+  for C++23, classified as an improvement of an existing feature ([[P0592R4]]
+  bucket 2 item).
 <td>13
 <td>7
 <td>1
