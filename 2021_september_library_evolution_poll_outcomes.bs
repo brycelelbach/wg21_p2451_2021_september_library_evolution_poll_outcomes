@@ -71,7 +71,7 @@ Poll 1: Send [[P2418R0]] (Add Support For `std::generator`-like Types To
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 2: Send [[P2415R1]] (What Is `A view`?) to Library Working Group for
+Poll 2: Send [[P2415R1]] (What Is A `view`?) to Library Working Group for
   C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket
   2 item), with the recommendation that implementations retroactively apply it
   to C++20.
@@ -148,7 +148,7 @@ Poll 5: Send [[P2291R2]] (Add `constexpr` Modifiers To Functions `to_chars` And
 >
 > — Weakly Against
 
-## Poll 2: [[P2415R1]] What Is `A view`? ## {#poll-2}
+## Poll 2: [[P2415R1]] What Is A `view`? ## {#poll-2}
 
 > The view concept has seen so many changes since its initial proposal that its meaning has become muddled. This paper brings some much-needed clarity and is also a significant usability improvement.
 >
